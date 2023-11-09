@@ -1,0 +1,19 @@
+.title {
+  width: 100%;
+  text-align: center;
+  font-size: 25px;
+  color: #13318c;
+  margin-bottom: 10px;
+}
+
+.logo {
+  margin-left: auto;
+  margin-right: auto;
+  height: 200px;
+}
+
+.scoreboard {
+  margin-left: auto;
+  margin-right: auto;
+  color: #ffffff;
+}
